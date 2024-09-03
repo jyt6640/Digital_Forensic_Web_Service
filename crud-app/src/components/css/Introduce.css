@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'HSSanTokki20-Regular';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2405@1.0/HSSanTokki20-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.introduce {
+  padding: 2rem 1rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.introduce h3 {
+  font-size: 3rem;
+  color: #333;
+  margin-bottom: 4rem;
+}
+
+.introduce p {
+  font-size: 1.125rem;
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 3.5rem;
+}

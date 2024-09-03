@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#animated-text-ko span,
+#animated-text-en span {
+  color: #3b6b9e;
+  font-size: 4rem;
+  opacity: 0;
+}
+
+#animated-text-en span {
+  color: #000; /* 영어 텍스트 색상 설정 */
+  font-size: 2rem;
+}
+
+.text-animated {
+  animation: slideInLeft 0.5s ease-in-out forwards 0s;
+}
+
+@keyframes slideInLeft {
+  0% {
+    transform: translateX(-30px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}

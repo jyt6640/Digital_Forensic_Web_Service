@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-image: url('../public/img/bgImg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  margin: 0;
+  padding: 0;
+}
+
+.main-content {
+  flex: 1; /* 남은 공간을 차지하도록 설정 */
+}
