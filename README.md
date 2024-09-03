@@ -9,7 +9,18 @@
 - **결과 표시**: AI 모델의 분석 결과에 따라 문서가 위변조되었는지 여부를 사용자에게 표시합니다.
 
 ## 웹 페이지 이미지
-
+메인페이지 1
+![메인페이지](https://github.com/jyt6640/Digital_Forensic_Web_Service/blob/main/eximg/Main1.png)
+메인페이지 2
+![메인페이지](https://github.com/jyt6640/Digital_Forensic_Web_Service/blob/main/eximg/Main2.png)
+메인페이지 3
+![메인페이지](https://github.com/jyt6640/Digital_Forensic_Web_Service/blob/main/eximg/Main3.png)
+업로드 및 결과 페이지 1
+![업로드 및 결과 페이지](https://github.com/jyt6640/Digital_Forensic_Web_Service/blob/main/eximg/FileUpload1.png)
+업로드 및 결과 페이지 2
+![업로드 및 결과 페이지](https://github.com/jyt6640/Digital_Forensic_Web_Service/blob/main/eximg/FileUpload2.png)
+업로드 및 결과 페이지 3
+![업로드 및 결과 페이지](https://github.com/jyt6640/Digital_Forensic_Web_Service/blob/main/eximg/FileUpload3.png)
 ## 설치 및 실행
 
 ### 1. 리포지토리 클론
